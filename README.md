@@ -1,2 +1,0 @@
-# myFisrtProject
-My first experience
